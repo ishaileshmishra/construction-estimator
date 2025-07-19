@@ -1,6 +1,7 @@
 import * as Localization from "expo-localization";
 import { I18n } from "i18n-js";
-
+// This file contains translations for the application in different languages.
+// The translations are structured as key-value pairs where the key is the translation identifier
 const translations = {
   en: {
     title: "Construction Cost Estimator",
